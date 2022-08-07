@@ -4,7 +4,13 @@ What should YOUR Open Source repo have...
 
 ## Highly recommended
 
+- Repo settings
+  - Description
+  - Url (is approriate)
+  - Topics
+  - Hide features not using (for example: wiki, packages)
 - README
+  - Screenshot / animated gif
   - Prerequisite list
     - hardware
     - software
@@ -21,3 +27,9 @@ What should YOUR Open Source repo have...
 - Issue template
 - Pull Request template
 - GitHub ACtions to automate repetitive tasks
+- Issue labels
+- Releases (create these manually or automatically using a GitHub Action)
+
+# Nice to have
+
+- Project board (to do, in progress, in review, done)
