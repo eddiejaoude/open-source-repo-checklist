@@ -4,18 +4,20 @@ What should YOUR Open Source repo have...
 
 ## Highly recommended
 
-- Prerequisite list
-  - hardware
-  - software
-- Glossary of terms & acronyms
-- QuickStart
 - README
+  - Prerequisite list
+    - hardware
+    - software
+  - Glossary of terms & acronyms
+  - QuickStart guide
 - Code of Conduct
 - License
 
 ## Recommended
 
-- clear outcomes & needs for the project
-- Audience targeted (skills, knowledge, experience)
+- README
+  - clear outcomes & needs for the project
+  - Audience targeted (skills, knowledge, experience)
 - Issue template
 - Pull Request template
+- GitHub ACtions to automate repetitive tasks
