@@ -26,7 +26,7 @@ What should YOUR Open Source repo have...
   - Audience targeted (skills, knowledge, experience)
 - Issue template
 - Pull Request template
-- GitHub ACtions to automate repetitive tasks
+- GitHub Actions to automate repetitive tasks
 - Issue labels
 - Releases (create these manually or automatically using a GitHub Action)
 
