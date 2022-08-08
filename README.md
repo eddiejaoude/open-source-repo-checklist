@@ -6,7 +6,7 @@ What should YOUR Open Source repo have...
 
 - Repo settings
   - Description
-  - URL (is appropriate)
+  - URL (if appropriate)
   - Topics
   - Hide features not using (for example: wiki, packages)
 - README
