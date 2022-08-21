@@ -16,6 +16,7 @@ What should YOUR Open Source repo have...
     - software
   - Glossary of terms & acronyms
   - QuickStart guide
+  - Where to get support / ask questions
 - Code of Conduct
 - License
 
